@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Arvan Kadkol
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAPokemon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **NotAPokemon/NotAPokemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
